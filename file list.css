@@ -1,0 +1,12 @@
+body{
+    background-color: orange;
+}
+ul{
+    color: black;
+    font-family: "DejaVu Sans";
+    font-size: 20px;
+}
+ol{
+    color: #5b0785;
+    font-size: 30px;
+}
